@@ -1,4 +1,4 @@
-start python D:/BEProject/Upload/copier.py
+start python C:/copier.py
 pause
 
-start python D:/BEProject/Upload/Imagesmani.py
+start python C:/Imagesmani.py
